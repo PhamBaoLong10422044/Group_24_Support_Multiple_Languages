@@ -1,0 +1,3 @@
+on_light: turn
+on_light: on
+off_light: off
